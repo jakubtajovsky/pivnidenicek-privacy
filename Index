@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zásady ochrany soukromí – Pivní Deníček</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px 30px;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 { color: #b45309; }
+        h2 { color: #92400e; margin-top: 30px; }
+        p, li { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Zásady ochrany soukromí – Pivní Deníček</h1>
+    <p><strong>Datum účinnosti:</strong> 18. 3. 2026</p>
+
+    <p>Aplikace Pivní Deníček (dále jen „aplikace") je provozována jako osobní projekt. Tyto zásady ochrany soukromí popisují, jaké informace shromažďujeme a jak s nimi nakládáme.</p>
+
+    <h2>1. Shromažďované údaje</h2>
+    <p>Aplikace shromažďuje následující údaje:</p>
+    <ul>
+        <li>E-mailová adresa (pro registraci a přihlášení)</li>
+        <li>Uživatelské jméno</li>
+        <li>Záznamy o pivech (čas, poznámky)</li>
+        <li>FCM token pro zasílání push notifikací</li>
+    </ul>
+
+    <h2>2. Jak údaje využíváme</h2>
+    <ul>
+        <li>Pro provoz aplikace a zobrazení statistik</li>
+        <li>Pro zasílání push notifikací o milnících</li>
+        <li>Pro zobrazení aktivit přátel v rámci aplikace</li>
+    </ul>
+
+    <h2>3. Sdílení údajů</h2>
+    <p>Vaše údaje nejsou prodávány ani sdíleny s třetími stranami. Aplikace využívá následující služby:</p>
+    <ul>
+        <li><strong>Google Firebase</strong> – ukládání dat a autentizace (<a href="https://firebase.google.com/support/privacy">zásady ochrany soukromí</a>)</li>
+        <li><strong>Google AdMob</strong> – zobrazování reklam (<a href="https://policies.google.com/privacy">zásady ochrany soukromí</a>)</li>
+        <li><strong>Google Play Billing</strong> – zpracování in-app nákupů</li>
+    </ul>
+
+    <h2>4. Uchovávání dat</h2>
+    <p>Vaše data jsou uchovávána po dobu, kdy máte aktivní účet v aplikaci. Po smazání účtu jsou data odstraněna z databáze.</p>
+
+    <h2>5. Zabezpečení</h2>
+    <p>Data jsou uložena na serverech Google Firebase v regionu Europe West 1 (Belgie) a jsou chráněna standardními bezpečnostními opatřeními Google.</p>
+
+    <h2>6. Věk uživatelů</h2>
+    <p>Aplikace je určena pro osoby starší 18 let. Shromažďujeme data pouze od uživatelů, kteří splňují tuto podmínku a vyjádřili souhlas při registraci.</p>
+
+    <h2>7. Práva uživatelů</h2>
+    <p>Máte právo na přístup ke svým datům, jejich opravu nebo smazání. Žádost lze podat e-mailem na adresu uvedenou níže.</p>
+
+    <h2>8. Kontakt</h2>
+    <p>V případě dotazů ohledně ochrany soukromí nás kontaktujte na: <strong>jakub.tajovsky@gmail.com</strong></p>
+
+    <h2>9. Změny zásad</h2>
+    <p>Tyto zásady mohou být příležitostně aktualizovány. O změnách budou uživatelé informováni v rámci aplikace.</p>
+</body>
+</html>
+
